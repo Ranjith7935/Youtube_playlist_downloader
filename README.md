@@ -35,3 +35,17 @@ You can either clone the repository if you have Git installed or download the Py
   git clone https://github.com/ranjith7935/Youtube-playlist-downloader.git
 
 
+---
+
+##🌍 Contributing
+We welcome contributions! If you have any improvements, bug fixes, or features you'd like to add, feel free to submit a pull request.
+
+Steps to Contribute:
+###1.Fork this repository.
+###2.Create a new branch.
+###3.Make your changes.
+###4.Commit your changes.
+###5.Push to the branch.
+###6.Submit a pull request.
+📝 License
+
