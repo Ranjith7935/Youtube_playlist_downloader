@@ -47,5 +47,5 @@ Steps to Contribute:
 ### 4. Commit your changes.
 ### 5. Push to the branch.
 ### 6. Submit a pull request.
-📝 License
+
 
